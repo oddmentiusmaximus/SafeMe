@@ -1,0 +1,44 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="BackgroundTheme" parent="AppTheme">
+        <item name="android:windowBackground">@drawable/clg_pic</item>
+    </style>
+
+    <style name="MyRquestDialog" parent="Theme.AppCompat.DayNight.Dialog.Alert">
+        <item name="colorPrimary">@android:color/black</item>
+    </style>
+
+
+    <style name="actionBarBackground" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">#ff289fff</item>
+        <item name="background">@color/blue</item>
+    </style>
+
+    <style name="sendMessageStyle">
+        <item name="android:textColor">#ffe36f2d</item>
+    </style>
+
+    <color name="blue">#ff289fff</color>
+    <color name="white_opaque">#fffffbfb</color>
+
+    <style name="buttonBackground">
+        <item name="android:background">#ff9d8dff</item>
+    </style>
+</resources>

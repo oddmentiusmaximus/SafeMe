@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">SafeMe</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="nav_header_title">SafeMe</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_tracking">Map</string>
+
+    <string name="title_section0">SafeMe</string>
+    <string name="title_section1">SafeMe</string>
+    <string name="title_section2">SETTINGS</string>
+
+
+    <string name="sendMessage">Send Your Alert Message</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="pref_title_primary_contact">Primary Contact</string>
+    <string name="pref_title_primary_contact_email">Primary Email</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_feedback">Feedback</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="appwidget_text">SafeMe</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="GPSAlertDialogTitle">GPS Alert</string>
+    <string name="GPSAlertDialogMessage">GPS Alert Message</string>
+    <string name="settings">GPS Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_scrolling">Help Information</string>
+    <string name="large_text">
+        "BMCC_Location Application is a application use to add users ,Track friends and loved ones to ensure their safety."
+        "You will be able to notice that every time you open your application you see a message saying :'no motion detected' it a security featur if you open the app and you are running or your phone is chaotically thrown or even if ou manually vigorously shake the device it will detect the force being applied and it will send the emergency text to you primary and secondary contacts and the message you stored in the settings"
+         <br/>"On the upper right corner you can see three line next to the name of the application clicking those three black lines opens up a menu."
+        <br/>"This navigation menu will lead you to all the users using the device ,the ones who have sent you a friend request and the setting menu ,signout menu and much more."
+        <br/>"This application has a feature where you can upload you images or evidence to a secure cloud platform and store those images."
+        <br/>"On the main screen there are three button the button on the left call the national distress number , the button in middle again sends texts to all your stored contacts in the settings and the right button takes you to all people activity"
+        <br/>"We have a widget feature as well if you go to your device widgets you will find an button you can place on the home screen on pressing of the button it will immediately send out text alerts to your emergency contacts"
+        <br/>"You can go back to home page by pressing the back button or the three dots above and home page"
+"Thank You For Reading."
+    </string>
+
+</resources>

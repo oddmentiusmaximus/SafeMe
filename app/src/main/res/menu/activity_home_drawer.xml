@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/emoji_1f3d5"
+
+            android:title="Home"/>
+        <item
+            android:id="@+id/nav_find_people"
+            android:icon="@drawable/ic_explore_black_24dp"
+
+            android:title="Find People"/>
+        <item
+            android:id="@+id/nav_add_people"
+            android:icon="@drawable/ic_person_add_black_24dp"
+            android:title="Requests"/>
+
+    </group>
+
+    <item android:title="System">
+        <menu>
+            <item
+                android:id="@+id/setProPic"
+                android:icon="@drawable/ic_person_add_black_24dp"
+                android:title="Upload Emergency Images"/>
+            <item
+                android:id="@+id/setUp"
+                android:icon="@drawable/alert"
+                android:title="Emergency Contacts"/>
+            <item
+                android:id="@+id/nav_sign_out"
+                android:icon="@drawable/ic_exit_to_app_black_24dp"
+                android:title="SignOut" />
+
+        </menu>
+    </item>
+
+</menu>
